@@ -1,0 +1,6 @@
+/target
+# Ignore standalone Tailwind binary
+/tailwindcss
+/tailwindcss.exe
+# Ignore standalone Vue browser lib
+/static/vue.esm-browser.prod.js
